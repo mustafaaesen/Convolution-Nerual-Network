@@ -22,7 +22,7 @@ This repository contains four different Convolutional Neural Network (CNN) proje
 ---
 
 ## 📁 Folder Structure
-
+```
 Convolution Neural Network/
 │
 ├── MNIST Project/
@@ -61,10 +61,8 @@ Convolution Neural Network/
 │ │ └── convolutional_neural_network_labeled_faces_project_model_control.py
 │ └── lfw_yuz-tanima_modeli.h5
 
-
-
 ---
-
+```
 ## 🔬 Project Descriptions
 
 ### 1. **MNIST Digit Recognition**
